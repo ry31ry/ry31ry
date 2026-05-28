@@ -87,4 +87,4 @@ A CNN-based deep learning model for classifying real and manipulated facial imag
 
 💼 LinkedIn: [www.linkedin.com/in/rashmi-yadav-3647242b6](http://www.linkedin.com/in/rashmi-yadav-3647242b6)
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [yadavrashmi37430@gmail.com]
