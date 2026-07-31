@@ -14,10 +14,6 @@ I'm passionate about building software solutions that combine development, artif
 
 A multi-agent analytics platform that processes datasets, generates insights, and automates business reporting.
 
-### GreenRoute
-
-A smart city emissions insights application focused on sustainable and data-driven commuting decisions.
-
 ### DeepFake Image Detection
 
 A CNN-based deep learning model for classifying real and manipulated facial images.
